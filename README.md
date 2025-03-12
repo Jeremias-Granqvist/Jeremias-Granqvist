@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeremias-Granqvist
-- 👀 I’m interested in rock climbing
-- 🌱 I’m currently learning C# and .NET
+- 👀 I’m interested in rock climbing and software development
+- 🌱 I’m currently learning C#, .NET, Blazor and APIs.
 - 💞️ I’m looking to collaborate on something fun
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
